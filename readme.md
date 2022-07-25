@@ -15,3 +15,16 @@ Corrections should describe the error, along with the article name, as well as a
 >In an article titled *Remembering Michael Morgan* in the December 2021 issue of *Senza Sordino*, a quote attributed to Kelly Hall-Tompkins incorrectly spelled her name as Kelly Hall-Thompkins. We regret the error.
 
 ## Music-specific Rules
+
+When describing musicians with their titles, refer to the musicians, not their instruments. Capitalize portions of the position that are tiles (such as Principal, Asssitant Principal, Second, Third, etc), but do not capitalize the instrument portion of the position.
+
+> Preferred
+> Second bassoonist Mike Muszynski
+
+> Discouraged
+> Second bassoon Mike Muszynski
+> Second Bassoonist Mike Muszynski
+
+When referring specifically to a position, it is apporpirate to refer to the instrument.
+
+>For the entire 2012-13 season, the position of Second bassoon was vacant.
