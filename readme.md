@@ -18,7 +18,7 @@ Corrections should describe the error, along with the article name, as well as a
 
 When describing musicians with their titles, refer to the musicians, not their instruments. Capitalize portions of the position that are tiles (such as Principal, Asssitant Principal, Second, Third, etc), but do not capitalize the instrument portion of the position.
 
-Note the use of irregular names for instrumentalists such as *flautist* and *trumpeter*.
+Note the use of irregular names for instrumentalists such as *flutist* and *trumpeter*.
 
 > Preferred
 > 
