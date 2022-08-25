@@ -6,9 +6,9 @@ The list below describes the names of the orchestras in ICSOM in the way they sh
 
 ## Orchestra Names
 
-Alabama Symphony Orchestra
-Atlanta Symphony Orchestra
-Baltimore Symphony Orchestra
+Alabama Symphony Orchestra\
+Atlanta Symphony Orchestra\
+Baltimore Symphony Orchestra\
 Boston Symphony Orchestra
 Buffalo Philharmonic Orchestra
 Charlotte Symphony Orchestra
