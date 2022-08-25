@@ -30,6 +30,6 @@ Note the use of irregular names for instrumentalists such as *flutist* and *trum
 > 
 > Second Bassoonist Mike Muszynski
 
-When referring specifically to a position, it is apporpirate to refer to the instrument, rather than the person filling it.
+When referring specifically to a position, it is appropriate to refer to the instrument, rather than the person filling it.
 
->For the entire 2012-13 season, the position of Second bassoon was vacant.
+>For the entire 2012-13 season, the position of Second Bassoon was vacant.
