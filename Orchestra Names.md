@@ -58,4 +58,4 @@ San Francisco Opera Orchestra\
 San Francisco Symphony\
 Symphoria\
 Utah Symphony\
-Virginia Symphony Orchestra\
+Virginia Symphony Orchestra
