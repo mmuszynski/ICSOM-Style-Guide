@@ -51,7 +51,6 @@ Pittsburgh Symphony Orchestra\
 Rochester Philharmonic Orchestra\
 St. Louis Symphony\
 The Saint Paul Chamber Orchestra\
-San Antonio Symphony\
 San Diego Symphony Orchestra\
 San Francisco Ballet Orchestra\
 San Francisco Opera Orchestra\
