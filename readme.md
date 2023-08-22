@@ -33,3 +33,17 @@ Note the use of irregular names for instrumentalists such as *flutist* and *trum
 When referring specifically to a position, it is appropriate to refer to the instrument, rather than the person filling it.
 
 >For the entire 2012-13 season, the position of Second Bassoon was vacant.
+
+## Extra things that often get overlooked
+
+Titles should only be capitalized where they are used as adjectives.
+
+> ICSOM General Counsel Kevin Case
+>
+> Kevin Case, ICSOM general counsel
+
+Generally write out United States when used as a noun and abbreviate with US as an adjective.
+
+> The conference was held in Milwaukee, Wisconsin, a city in the United States
+>
+> The conference was held in a US location—Milwaukee, Wisconsin
