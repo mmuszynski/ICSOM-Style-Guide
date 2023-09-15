@@ -1,6 +1,8 @@
 # Numbers
 
-For spelling out numbers, use the alternate rule (CMOS 9.3):
+*This advice is no longer current as of September 2023.*
+
+~~For spelling out numbers, use the alternate rule (CMOS 9.3):
 
 [Spell] out only single-digit numbers and [use] numerals for all others ...
 
@@ -8,7 +10,7 @@ For spelling out numbers, use the alternate rule (CMOS 9.3):
 >
 > Only four of these orchestras were furloughed during the COVID-19 pandemic.
 
-Continue to follow other rules for spelling out numbers in the CMOS.
+Continue to follow other rules for spelling out numbers in the CMOS.~~
 
 ## Telephone Numbers
 
