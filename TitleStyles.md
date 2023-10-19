@@ -4,7 +4,9 @@ General rules for the styling of titles of works begins in [CMOS 8.157](https://
 
 ## Common usage
 
-Names of publications, such as *Senza Sordino* should always be presented in italics.
+Names of publications, such as *Senza Sordino* should always be presented in italics. Titles of articles should use roman text with quotation marks.
+
+> In ICSOM President Paul Austin's report "An Honest Partnership" from the October 2023 issue of _Senza Sordino_, he discusses his working relationship with outgoing Chairperson Meredith Snow.
 
 Musical works are generally italicized if they are large works such as operas. However, individual arias from operas are set in roman with quotation marks:
 
