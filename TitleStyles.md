@@ -8,5 +8,6 @@ Names of publications, such as *Senza Sordino* should always be presented in ita
 
 Musical works are generally italicized if they are large works such as operas. Individual arias from operas are set in roman with quotation marks:
 
-the "Flower Duet" from _Lakmé_
-"Là ci darem la mano" from Mozart's _Don Giovanni_.
+>the "Flower Duet" from _Lakmé_
+
+>"Là ci darem la mano" from Mozart's _Don Giovanni_.
