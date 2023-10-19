@@ -8,6 +8,8 @@ In general, ICSOM adopts the style as described in the [*Chicago Manual of Style
 
 Publications should always be presented in italics, including *Senza Sordino*.
 
+[Capitalization](Capitalization.md)
+
 ## Corrections
 
 Corrections should describe the error, along with the article name, as well as a description of the issue. The author should be noted if possible.
