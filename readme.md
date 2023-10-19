@@ -16,23 +16,23 @@ Corrections should describe the error, along with the article name, as well as a
 
 ## Music-specific Rules
 
-When describing musicians with their titles, refer to the musicians, not their instruments. Capitalize portions of the position that are tiles (such as Principal, Asssitant Principal, Second, Third, etc), but do not capitalize the instrument portion of the position.
-
-Note the use of irregular names for instrumentalists such as *flutist* and *trumpeter* as well as odd sounding ones like *hornist* (despite the fact that these words may be awkward, they are still more correct than labeling someone as an instrument).
+When describing musicians with their titles, remember that the musician is a person, not an instrument. In keeping with the rules for titles, when using the instrument as part of a personal title, capitalize it, but do not capitalize when used elsewhere (CMOS 8.19).
 
 > Preferred
 > 
-> Second bassoonist Mike Muszynski
+> Second Bassoonist Mike Muszynski
 
 > Discouraged
 > 
-> Second bassoon Mike Muszynski
-> 
-> Second Bassoonist Mike Muszynski
+> Second Bassoon Mike Muszynski
 
 When referring specifically to a position, it is appropriate to refer to the instrument, rather than the person filling it.
 
 >For the entire 2012-13 season, the position of Second Bassoon was vacant.
+
+Note one acception to this rule (CMOS 8.30) that generic titles should be kept lowercase.
+
+> Indianapolis Symphony Orchestra bassoonist Mike Muszynski...
 
 ## Extra things that often get overlooked
 
