@@ -55,6 +55,7 @@ San Diego Symphony Orchestra\
 San Francisco Ballet Orchestra\
 San Francisco Opera Orchestra\
 San Francisco Symphony\
-~~Symphoria~~ The Syracuse Orchestra\
+The Syracuse Orchestra\
+Toledo Symphony Orchestra\
 Utah Symphony\
 Virginia Symphony Orchestra
